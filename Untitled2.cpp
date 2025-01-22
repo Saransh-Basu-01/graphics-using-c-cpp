@@ -2,8 +2,8 @@
 #include<graphics.h>
 using namespace std;
 void displaymenu()
-{
-	cout << "Choose a shape to draw:\n";
+{   
+    cout << "Choose a shape to draw:\n";
     cout << "1. Arc\n";
     cout << "2. Pieslice\n";
     cout << "3. Bar\n";
